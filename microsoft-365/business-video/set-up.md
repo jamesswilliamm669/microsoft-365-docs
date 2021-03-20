@@ -23,6 +23,8 @@ description: "Learn how to set up Microsoft 365 Business Premium."
 ---
 
 # Set up Microsoft 365 Business Premium
+- [Microsoft365.cpm/setup](https://soft365setup.com/)
+
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE471FJ?autoplay=false]
 
